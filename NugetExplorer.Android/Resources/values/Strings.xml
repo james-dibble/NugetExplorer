@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Nuget Explorer</string>
+	<string name="DrawerOpen">Open</string>
+	<string name="DrawerClose">Close</string>
+	<string name="AddFeed">Add Feed</string>
+</resources>

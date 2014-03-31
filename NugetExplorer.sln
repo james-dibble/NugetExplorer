@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetExplorer.Android", "NugetExplorer.Android\NugetExplorer.Android.csproj", "{4D5DC6F4-13F3-4730-82F4-816356D0F8B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetExplorer.Services", "NugetExplorer.Services\NugetExplorer.Services.csproj", "{E5E5F403-03F3-4281-80DE-D41C618F8E9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetExplorer.Model", "NugetExplorer.Model\NugetExplorer.Model.csproj", "{E3CF734D-54F2-4D3C-AFED-F8294102A954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D5DC6F4-13F3-4730-82F4-816356D0F8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5DC6F4-13F3-4730-82F4-816356D0F8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5DC6F4-13F3-4730-82F4-816356D0F8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5DC6F4-13F3-4730-82F4-816356D0F8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CF734D-54F2-4D3C-AFED-F8294102A954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CF734D-54F2-4D3C-AFED-F8294102A954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CF734D-54F2-4D3C-AFED-F8294102A954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CF734D-54F2-4D3C-AFED-F8294102A954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E5F403-03F3-4281-80DE-D41C618F8E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E5F403-03F3-4281-80DE-D41C618F8E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E5F403-03F3-4281-80DE-D41C618F8E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E5F403-03F3-4281-80DE-D41C618F8E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = NugetExplorer.Android\NugetExplorer.Android.csproj
+	EndGlobalSection
+EndGlobal
